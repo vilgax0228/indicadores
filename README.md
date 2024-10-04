@@ -18,7 +18,7 @@ Referência: Indicadores Sociais no Brasil: Conceitos, Fontes de Dados e Aplica�
 * Em 1973 foi criada, no IBGE (Instituto Brasileiro de Geografia e Estatística), um grupo de trabalho multidisciplinar para estruturar um sistema de indicadores sociais que pudesse orientar a produção de pesquisas no campo.
 * Em 1979, primeira publicação intitulada "Indicadores Sociais: relatório 1979".
 * O relatório cobria 8 temas: população e família, divisão de trabalho, mobilidade ocupacional, distribuição de renda, despesas familiar, habitação, educação e saúde.
-* Atualmente os ndicadores sociais são essenciais para as atividades ligadas ao Planejamento Governamental e ao Ciclo de Formulação e Avaliação de Políticas Públicas.
+* Atualmente os indicadores sociais são essenciais para as atividades ligadas ao Planejamento Governamental e ao Ciclo de Formulação e Avaliação de Políticas Públicas.
 
 ### Definição de Indicador Social
 
@@ -30,12 +30,47 @@ Referência: Indicadores Sociais no Brasil: Conceitos, Fontes de Dados e Aplica�
 ### Indicadores Sociais vs Estatísticas Públicas
 
 * As **estatísticas públicas** correspondem ao dado social bruto, não inteiramente contextualizado na perspectiva de uma teoria social.
-* Dados censitários, estimativas amostrais e registros sociais consistem a matéria orima para a construção de indicadores sociais.
+* Dados censitários, estimativas amostrais e registros sociais consistem a matéria prima para a construção de indicadores sociais.
 * As estatísticas públicas transformam-se em indicadores quando permitem uma apreciação mais contextualizada e comparativa da realidade social, no tempo e território.
 
 ### Sistema de Indicadores Sociais
 
+* Sistema de Indicadores Sociais é um conjunto de indicadores sociais referentes a um determinado aspecto da realidade social ou área de intervenção programática.
 
+### Exemplo de indicadores sociais
+
+1. **Conceito abstrato ou temática:** condições de vida pode ser visto como nível de atendimento das necessidades materiais básicas para sobrevivência e reprodução social da comunidade.
+
+2. **Especificação das dimensões:** condições de saúde, habitação, trabalho e educação dos indivíduos da comunidade.
+
+3. **Obtenção de estatísticas públicas:** atendimento médico oferecido, óbitos registrados, matrículas realizadas, quantidade de domicílios com acesso à infra-estrutura de serviços urbanos, volume de empregados e desempregados, etc.
+
+4. **Combinação orientada das estatísticas:** computação de uma ou mais medidas (taxas de mortalidade infantil, taxa de cobertura escolar, taxa de desemprego) para operacionalizar o conceito de condições de vida.
+
+### Classificação de indicadores sociais
+Classificação mais comum e segundo a área temática da realidade social a que se refere:
+
+* Indicadores de saúde (% de crianças nascidas com peso adequado)
+
+* Indicadores educacionais (escolaridade média da população de 15 ou mais anos)
+
+* Indicadores de mercado de trabalho (rendimento médio real do trabalho)
+
+* Indicadores demográficos (taxa de mortalidade)
+
+* Indicadores de segurança pública e justiça (roubos à mão armada por cem mil habitantes)
+
+* Indicadores de infra-estrutura urbana (percentual de domicílios com abastecimento com rede pública)
+
+* Indicadores de pobreza e desigualdade (taxa de pobreza)
+
+### Indicadores Objetivos vs Subjetivos
+
+* **Indicadores objetivos (quantitativos):** são ocorrências concretas e medidas empíricas da realidade social, construídos a partir de estatísticas públicas disponíveis.
+
+**Exemplo:** taxa de desemprego, taxa de evasão escolar, domicílios com acesso à rede de água.
+
+* **Indicadores subjetivos (qualitativos):** 
 
 ---
 
@@ -43,7 +78,7 @@ Referência: Indicadores Sociais no Brasil: Conceitos, Fontes de Dados e Aplica�
 
 **1. Defina estatísticas públicas e indicadores. Apresente um exemplo.**
 
-As estatísticas públicas são os dados brutos, não inteiramente contextualizado numa dada realidade social, já os indicadores são medidas dotadas de significado social.
+As estatísticas públicas são os dados brutos, não inteiramente contextualizado numa dada realidade social, já os indicadores são medidas dotadas de significado social. Um exemplo de estatística pública é a quantidade absoluta de mortes por covid-19, e de um indicador a proporção por 100000 habitantes de mortes causadas pela covid-19.
 
 **2. Na prática, quais são as propriedades mais desejáveis de um indicador?**
 
