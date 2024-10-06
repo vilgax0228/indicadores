@@ -70,7 +70,19 @@ Classificação mais comum e segundo a área temática da realidade social a que
 
 **Exemplo:** taxa de desemprego, taxa de evasão escolar, domicílios com acesso à rede de água.
 
-* **Indicadores subjetivos (qualitativos):** 
+* **Indicadores subjetivos (qualitativos):** são medidas construídas a partir da avaliação dos indivíduos ou especialistas com relação a diferentes aspectos da realidade, levantadas em pesquisas de opinião pública ou grupos de discussão.
+
+**Exemplo:** índice de confiança nas instituições, avaliação sobre performance dos governantes.
+
+### Indicadores Descritivos vs Normativos
+
+* **Indicadores descritivos:** não são fortemente dotados de significados valorativos, e apenas descrevem características e aspectos da realidade empírica.
+
+**Exemplo:** taxa de mortalidade infantil, evasão escolar.
+
+* **Indicadores normativos:** refletem explicitamente juízos de valor ou critérios normativos com respeito à dimensão social.
+
+**Exemplo:** proporção de pobres e taxa de desemprego dependem de uma série de decisões metodológicas normativas.
 
 ---
 
