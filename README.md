@@ -84,6 +84,28 @@ Classificação mais comum e segundo a área temática da realidade social a que
 
 **Exemplo:** proporção de pobres e taxa de desemprego dependem de uma série de decisões metodológicas normativas.
 
+### Indicadores Simples vs Compostos
+
+* **Indicadores simples:** são construídos a partir de uma estatística social específica, referente a uma determinada dimensão social.
+
+* **Indicadores compostos:** são elaborados pela aglutinação de dois ou mais indicadores simples, referentes a uma mesma ou diferentes dimensões da realidade social.
+
+**Exemplo:** Índice de Desenvolvimento Humano (IDH) construído a partir de informações sobre saúde, educação e renda.
+
+### Indicadores Insumo vs Processo vs Produto
+
+Classificação usada na análise/formulação de políticas sociais.
+
+* **Indicadores-insumo:** representam a alocação de recursos humanos, finanaceiros ou equipamentos para um processo ou programa que afeta a realidade social. Quantificam os recursos disponibilizados nas diversas políticas sociais.
+
+**Exemplo:** professores por estudantes, gasto per capita nas diversas áreas de políticas social, os equipamentos e o pessoal técnico disponibilizado.
+
+* **Indicadores processo:** indicam esforço operacional de alocação de recursos humanos, físicos ou financeiros (indicadores-insumo) para obtenção de melhorias efetivas de bem-estar (indicadores produto).
+
+**Exemplo:** número de consultas pediátrico por mês, homens-hora dedicados a um programa social.
+
+* **Indicadores produto:** 
+
 ---
 
 **Lista de exercícios 1**
