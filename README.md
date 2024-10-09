@@ -1,5 +1,3 @@
-Referência: Indicadores Sociais no Brasil: Conceitos, Fontes de Dados e Aplicações de *Paulo de M. Jannuzzi*
-
 ## Conceitos básicos
 
 ### Contexto Histórico
@@ -104,7 +102,164 @@ Classificação usada na análise/formulação de políticas sociais.
 
 **Exemplo:** número de consultas pediátrico por mês, homens-hora dedicados a um programa social.
 
-* **Indicadores produto:** 
+* **Indicadores produto:** são vinculados às dimensões empíricas da realidade social, referidos às variáveis resultantes de processos sociais complexos. Retratam os resultados efetivos das políticas sociais.
+
+**Exemplo:** esperança de vida ao nascer, nível de pobreza.
+
+**obs:** os indicadores de insumo e processo podem ser chamados de indicadores de esforço, e os indicadores-produto de indicadores de resultados.
+
+### Indicadores Estoque vs Perfomance
+
+Diz respeito à temporalidade do prcesso analisado.
+
+* **Indicador de estoque:** refere-se à medida de uma determinada dimensão social em um momento específico.
+
+**Exemplo:** anos de escolaridade.
+
+* **Indicador de performance ou fluxo:** trata de mudanças entre dois momentos distintos.
+
+**Exemplo:** aumento dos anos de escolaridade no decorrer do tempo.
+
+### Indicadores Eficiência vs Eficácia vs Efetividade
+
+Classificação utilizada na formulação de políticas, já que diferencia indicadores por aspectos de avaliaçãod e programas.
+
+* Indicadores para **avaliação da eficiência** dos meios e recursos empregados.
+
+**Exemplo:** volume de investimentos de urbanização por unidade de uma favela.
+
+* Indicadores para **avaliação de eficácia** no cumprimento das metas.
+
+**Exemplos:** melhoria das condições de moradia, infra-estrutura e acessibilidade da favela.
+
+* Indicadores para **avaliação da efetividade** social do programa, isto é, avalia os efeitos do programa em termos mais abrangentes de bem estar para a sociedade.
+
+**Exemplo:** mortalidade infantil, nível de coesão social e participação na comunidade, nível de criminalidade na favela.
+
+---
+
+### Propriedades dos Indicadores Sociais
+
+* Relevância social
+* Validade
+* Confiabilidade
+* Cobertura
+* Sensibilidade
+* Especificidade
+* Inteligibilidade de sua construção e Comunicabilidade
+* Factibilidade para obtenção e Peridiocidade na atualização
+* Desagregabilidade
+* Historicidade
+
+### Relevância Social
+
+* A **relevância social** da temática à qual o indicador se refere é um atributo fundamental para justificar sua produção e legitimar seu emprego no processo de análise, formulação e implementação de políticas.
+
+* A pertinência de produção do indicador é historicamente determinada, resultante da agenda de discussão política e social de cada sociedade ao longo de sua trajetória.
+
+* Os problemas de exclusão e desigualdade social em países em desenvolvimento gera a necessidade de coleta de estimativas públicas e de construção de indicadores sobre intensidade de pobreza, níveis de carência, e acesso a bens e serviços públicos.
+
+### Validade
+
+* A validade do indicador corresponde ao grau de proximidade entre o conceito e a medida.
+
+* É a capacidade de refletir o conceito abstrato a que o indicador se propôe a substituir e operacionalizar.
+
+* Por exemplo, percentual de famílias com renda abaixo de um salário mínimo geralmente é um indicador mais adequado para retratar o nível de pobreza de uma população, do que a renda média per capita.
+
+* A taxa de mortalidade infantil deve ser um indicador mais válido para avaliar as condições de saúde do que a porcentagem de domicílios com acesso a água encanada.
+
+### Confiabilidade
+
+* Confiabilidade diz respeito à **qualidade** do levantamento dos dados usados na estimação do indicador.
+
+* Indicadores calculados por pesquisas amostrais realizadas por agências públicas são medidas confiáveis, porque os dados são coletados de forma padronizada, por corpos técnicos qualificados, e seguindo uma metodologia de obtenção, registro e avaliação das informações.
+
+* É preciso eliminar toda variação não aleatória na coleta e processamento dos dados para garantir que mudanças no indicador, ao longo do tempo, sejam analisadas de forma consistente.
+
+* Os registros administrativos dos órgãos públicos ainda precisam melhorar a confiabilidade de seus indicadores.
+
+### Cobertura
+
+* É importante dispor de indicadores com boa cobertura espacial ou populacional de forma que sejam representativos da realidade empírica em análise.
+
+* Os dados dos censos demográficos são importantes para o planejamento público justamente porque têm cobertura de todo o território nacional, além de possuir diversas variáveis para análise.
+
+* Mesmo dados de órgãos públicos com cobertura parcial (tanto geograficamente, como conceitualmente) podem gerar importantes indicadores para a análise da realidade social. Por ex. alguns indicadores de mercado de trabalho, segurança pública, etc.
+
+### Sensibilidade
+
+* Um indicador é sensível se for capaz de refletir mudanças significativas, em momentos que as condições que afetam a dimensão social em estudo se alterarem.
+
+* Ao realizar a avaliação do impacto de um programa social, é preciso verificar qual indicador responde mais às mudanças implementadas na realidade social.
+
+* Um indicador pode não apresentar mudanças estatisticamente significativas após a aplicação de políticas públicas, não somente porque não houve uma melhora nas condições de vida da população, mas talvez porque ele não possui sensibilidade suficiente para avaliação do tópico em estudo.
+
+### Especificidade
+
+* Um indicador é específico se tem a propriedade de refletir alterações ligadas somente às mudanças relacionadas a dimensão social em estudo.
+
+* Diz respeito ao grau de associação existente entre as estatísticas sociais usadas na construção do indicador.
+
+* Propriedade desejável de indicadores de monitoramento de programas sociais, em que se procura vincular relações ação e reação.
+
+* Avaliar programas de atenção à saúde materno-infantil, proporção de crianças com baixo peso ao nascer ou taxa de mortalidade neonatal.
+
+### Inteligibilidade e Comunicabilidade
+
+* Inteligibilidade se refere à transparência da metodologia de construção do indicador.
+
+* Um indicador também deve ser facilmente compreensível aos demais (comunicável).
+
+* Isso é muito importante para indicadores voltados a formulação de políticas, já que a alocação de recursos públicos só pode se legitimar tecnicamente se os agentes envolvidos entenderem os critérios metodológicos utilizados.
+
+* A inteligibilidade e comunicabilidade são importante para garantir a transparência no uso programático do indicador.
+
+### Factibilidade e Periodicidade
+
+* É preciso que o indicador possa ser factível de obtenção a custos acessíveis pelos órgãos de coleta ou pesquisadores.
+
+* um indicador se torna mais rico se há a possibilidade de coletar as estatísticas que o compõem com uma certa periodicidade.
+
+* A regularidade com que as estatísticas sociais são coletadas indica se é factível a utilização do indicador em estudos específicos.
+
+* O custo e tempo para obtenção do indicador têm que ser compatíveis com as necessidades e usos que se faz do mesmo.
+
+### Desagregabilidade
+
+* É importante que os indicadores se refiram aos grupos sociais de interesse (população-alvo) dos programas.
+
+* Os indicadores sociais devem se referir aos espaços geográficos em análise (Estados, municípios, áreas de ponderação, setores censitários), a sub-grupos sociodemográficos (crianças, idosos, mulheres), ou grupos vulneráveis específicos (desempregados, analfabetos).
+
+* No entanto, devido a dificuldades metodológicas, falta de recursos e outros fatores, não é possível produzir estatísticas sociais com a frequência e representatividade amostral desejada pelos pesquisadores.
+
+### Historicidade
+
+* Historicidade de um indicador é a propriedade de se dispor de séries históricas extensas e comparáveis do mesmo.
+
+* Dessa forma é possível comparar os níveis atuais com os do passado, estimar tendências, e avaliar efeitos de políticas sociais implementadas.
+
+* É imporantante que indicadores passados sejam compatíveis conceitualmente e tenham confiabilidade similar aos indicadores atuais.
+
+### Perspectiva aplicada
+
+* É muito raro dispor de indicadores sociais que possuam todas as propriedades expostas anteriormente.
+
+* O analista deve avaliar as vantagens e limitações das diferentes medidas disponíveis para estudo.
+
+* Não há uma teoria formal de escolha dos indicadores, o que torna essa decisão uma tarefa complexa e subjetiva.
+
+* De todo modo, é importante garantir que haja:
+    * **Validade:** relação recíproca entre o conceito abstrato e os indicadores propostos.
+    * **Confiabilidade:** para as estimativas calculadas.
+    * **Inteligibilidade:** transparência das decisões tomadas em bases técnicas.
+
+---
+
+## Fonte de Dados para Construção de Indicadores Sociais
+
+
+
 
 ---
 
@@ -116,8 +271,16 @@ As estatísticas públicas são os dados brutos, não inteiramente contextualiza
 
 **2. Na prática, quais são as propriedades mais desejáveis de um indicador?**
 
+Validade, confiabilidade e inteligibilidade.
+
 **3. Na análise e formulação de políticas públicas, quais são os tipos de indicadores mais apropriados?**
+
+Nesse caso seriam os 
 
 **4. Apresente exemplos de indicadores Descritivos e Normativos.**
 
+Para os indicadores descritivos temos a taxa de mortalidade infantil e evasão escolar, já para os indicadores normativos, proporção de pobres e taxa de desemprego.
+
 **5. Quais são os principais tipos de pesquisas que fornecem as estatísticas públicas?** 
+
+Os censos demográficos e as pesquisas amostrais.
