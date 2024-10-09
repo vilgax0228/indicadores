@@ -267,7 +267,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 **1. Defina estatísticas públicas e indicadores. Apresente um exemplo.**
 
-As estatísticas públicas são os dados brutos, não inteiramente contextualizado numa dada realidade social, já os indicadores são medidas dotadas de significado social. Um exemplo de estatística pública é a quantidade absoluta de mortes por covid-19, e de um indicador a proporção por 100000 habitantes de mortes causadas pela covid-19.
+As estatísticas públicas correspondem ao dado social na sua forma bruta, não inteiramente contextualizado em uma Teoria Social ou uma Finalidade Programática, já os indicadores sociais são um recurso metodológico que informa algo sobre um aspecto da realidade social ou de mudanças que estão se processando na mesma. Um exemplo de estatística pública é a quantidade de nascidos vivos e de um indicador social a taxa de natalidade.
 
 **2. Na prática, quais são as propriedades mais desejáveis de um indicador?**
 
@@ -275,7 +275,7 @@ Validade, confiabilidade e inteligibilidade.
 
 **3. Na análise e formulação de políticas públicas, quais são os tipos de indicadores mais apropriados?**
 
-Nesse caso seriam os 
+Nesse caso seriam os que permitam uma apreciação mais contextualizada e comparativa da realidade social, como as taxas de natalidade e taxa de evasão escolar, são das áreas da saúde, de infra-estrutura, de segurança pública, etc.
 
 **4. Apresente exemplos de indicadores Descritivos e Normativos.**
 
@@ -283,4 +283,23 @@ Para os indicadores descritivos temos a taxa de mortalidade infantil e evasão e
 
 **5. Quais são os principais tipos de pesquisas que fornecem as estatísticas públicas?** 
 
-Os censos demográficos e as pesquisas amostrais.
+Os Censos Demográficos, as pesquisas amostrais e os registros administrativos.
+
+---
+
+
+
+
+
+
+
+
+---
+
+site do [*DATASUS/TABNET*.](https://datasus.saude.gov.br/informacoes-de-saude-tabnet/)
+
+O DATASUS disponibiliza informações que podem servir para subsidiar análises objetivas da situação sanitária, tomadas de decisão baseadas em evidências e elaboração de programas de ações de saúde.
+
+A mensuração do estado de saúde da população é uma tradição em saúde pública. Teve seu início com o registro sistemático de dados de mortalidade e de sobrevivência (Estatísticas Vitais - Mortalidade e Nascidos Vivos).
+
+Com os avanços no controle das doenças infecciosas (Informações Epidemiológicas e Morbidade) e com a melhor compreensão do conceito de saúde e de seus determinantes populacionais, a análise da situação sanitária passou a incorporar outras dimensões do estado de saúde.
