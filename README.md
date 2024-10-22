@@ -258,6 +258,68 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 ## Fonte de Dados para Construção de Indicadores Sociais
 
+### Fonte de Dados
+
+* Existem dois tipos de dados: primários e secundários.
+
+* Os **primários** são originais e coletados pela primeira vez por um pesquisador ou instituto através de questionários, pesquisas ou entrevistas.
+
+* Os **secundários** são aqueles que são coletados usando fontes disponíveis, através de publicações (livros, artigos), registros administrativos ou websites.
+
+* As estatísticas públicas podem ser obtidas a partir de pesquisas do tipo censitária, amostral e de registros ou cadastros públicos.
+
+* As pesquisas censitárias abrangem todo o universo ou a população de interesse de estudo. A principal pesquisa censitária é o Censo Demográfico do IBGE, coletado a cada 10 anos.
+
+* A principal pesquisa por amostragem domiciliar do IBGE é a Pesquisa Nacional por Amostra de Domicílos Contínua (Pnad-C), de periodicidade anual.
+
+* Os registros ou cadastros públicos ganharam destaque nas últimas décadas e os Ministérios do Trabalho, da Saúde, do Desenvolvimento Regional vêm disponibilizando anualmente os dados de seus cadastros.
+
+### Instituto Brasileiro de Geografia e Estatística (IBGE)
+
+* É o agente coordenador do Sistema de Produção e Disseminação de Estatísticas Públicas.
+
+* Criado em 1934, produz dados primários, compila dados provenientes de Ministérios e dissemina as estatísticas.
+
+### Censo Demográfico
+
+* Devido à regularidade de coleta, escopo temático, desagregabilidade geográfica, cobertura nacional, acessibilidade dos dados, os Censos constituem-se na principal fonte de dados para a construção de indicadores sociais para formulação de políticas públicas no Brasil.
+
+* Abrange temas relativos às características pessoas, da família, migração, educação, mão de obra, rendimentos e características de moradia.
+
+* Censo brasileiro é um dos mais detalhados em termos internacionais.
+
+* Foram coletados em 1940, 1950, 1960, 1970, 1980, 1990, 2000 e 2010 (Histórico dos Censos)
+
+* O último censo ocorreu em 2022.
+
+* Os dados censitários podem ser consultados pelo [SIDRA](https://sidra.ibge.gov.br/acervo#/S/Q) - Sistema IBGE de Recuperação Automática de Dados.
+
+* Esta ferramenta permite construir tabelas cruzadas e cartogramas.
+
+### Pesquisa Nacional por Amostra de Domicílio (PNAD)
+
+* A PNAD foi implantada em 1967 com o objetivo de acompanhar sistematicamente o quadro socioeconômico no período intercensitário.
+
+* Com periodicidade anual, sua intenção inicial era de captar mudanças conjunturais e estruturais do mercado de trabalho brasileiro, mas passou a investigar várias temáticas de interesse do planejamento governamental.
+
+* Nos anos 80, os resultados da PNAD passaram a ser divulgados para as 5 macro-regiões (Norte, Nordeste, Sudeste, Sul e centro-Oeste) para os Estados e para as 9 Regiões Metropolitanas.
+
+* Somente a população da zona rural da Região Norte estava fora desse universo (2,4% da população).
+
+### PNAD-Contínua
+
+* Atualemnte, a principal pesquisa por amostragem divulgada pelo IBGE é a Pesquisa por Amostra de Domicílos Contínua.
+
+* Pnad Contínua abrange os grandes temas pesquisados pelo Censo Demográfico e entrevista mais de 700 mil domicílios em mais de 3 mil municípios no ano.
+
+### Registros Administrativos
+
+* Existeem limitações para estimação de indicadores geográficos e socioeconômicos para microrregiões e municípios brasileiros, deviddo:
+     * Censos são realizados somente de 10 em 10 anos;
+     * PNADs possuem limitações na desagregação geográfica;
+     * Pesquisas mensais de emprego e de outras pesquisas amostrais possuem cobertura geográfica restrita.
+ 
+* Órgãos públicos 
 
 
 
