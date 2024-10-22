@@ -365,3 +365,5 @@ O DATASUS disponibiliza informações que podem servir para subsidiar análises 
 A mensuração do estado de saúde da população é uma tradição em saúde pública. Teve seu início com o registro sistemático de dados de mortalidade e de sobrevivência (Estatísticas Vitais - Mortalidade e Nascidos Vivos).
 
 Com os avanços no controle das doenças infecciosas (Informações Epidemiológicas e Morbidade) e com a melhor compreensão do conceito de saúde e de seus determinantes populacionais, a análise da situação sanitária passou a incorporar outras dimensões do estado de saúde.
+
+Vassouras(RJ) é o meu estado.
