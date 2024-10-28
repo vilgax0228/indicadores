@@ -1,31 +1,13 @@
 ## Conceitos básicos
 
-### Contexto Histórico
-
-* Fundamentação técnico-científica em meados dos anos 1960.
-* Houve tentativas de organizar sistemas de acompanhamento de transformações sociais, e avaliação do impacto de políticas públicas em países desenvolvidos e subdesenvolvidos.
-* O Estado de Bem-estar Social (*welfare state*) é um modelo de governo no qual o Estado assume a responsabilidade pelo bem-estar econômico e social da população.
-* Percebeu-se um descompasso entre crescimento econômico e a melhoria das condições sociais em países em desenvolvimento
-* Em vários países, a despeito do aumento do PIB, persistiam altos níveis de pobreza e acentuada desigualdade social.
-* Crescimento econômico não era condição suficiente para garantir o desenvolvimento social.
-* Sistema de Indicadores Sociais para promover e acompanhar a mudança social.
-* Organizações internacionais: ONU e seus organismos especializados, Organização de Cooperação e Desenvolvimento Econômico (OCDE), e Comunidade Econômica Europeia (CEE).
-
-### Contexto Histórico no Brasil
-
-* Em 1973 foi criada, no IBGE (Instituto Brasileiro de Geografia e Estatística), um grupo de trabalho multidisciplinar para estruturar um sistema de indicadores sociais que pudesse orientar a produção de pesquisas no campo.
-* Em 1979, primeira publicação intitulada "Indicadores Sociais: relatório 1979".
-* O relatório cobria 8 temas: população e família, divisão de trabalho, mobilidade ocupacional, distribuição de renda, despesas familiar, habitação, educação e saúde.
-* Atualmente os indicadores sociais são essenciais para as atividades ligadas ao Planejamento Governamental e ao Ciclo de Formulação e Avaliação de Políticas Públicas.
-
-### Definição de Indicador Social
+#### Definição de Indicador Social
 
 * Um **indicador social** é uma medida, em geral quantitativa, dotado de significado social.
 * Usado para aproximar, quantificar e operacionalizar um conceito social abstrato.
 * Trata-se de um recurso metodológico que informa algo sobre um aspecto da realidade social ou a respeito de mudanças que nela estão se processando.
 * **Exemplos:** rendimento médio do trabalho, taxas de analfabetismo, de mortalidade infantil, proporção de crianças matriculadas em escolas.
 
-### Indicadores Sociais vs Estatísticas Públicas
+#### Indicadores Sociais vs Estatísticas Públicas
 
 * As **estatísticas públicas** correspondem ao dado social bruto, não inteiramente contextualizado na perspectiva de uma teoria social.
 * Dados censitários, estimativas amostrais e registros sociais consistem a matéria prima para a construção de indicadores sociais.
@@ -35,7 +17,7 @@
 
 * Sistema de Indicadores Sociais é um conjunto de indicadores sociais referentes a um determinado aspecto da realidade social ou área de intervenção programática.
 
-### Exemplo de indicadores sociais
+#### Exemplo de indicadores sociais
 
 1. **Conceito abstrato ou temática:** condições de vida pode ser visto como nível de atendimento das necessidades materiais básicas para sobrevivência e reprodução social da comunidade.
 
@@ -45,7 +27,7 @@
 
 4. **Combinação orientada das estatísticas:** computação de uma ou mais medidas (taxas de mortalidade infantil, taxa de cobertura escolar, taxa de desemprego) para operacionalizar o conceito de condições de vida.
 
-### Classificação de indicadores sociais
+#### Classificação de indicadores sociais
 Classificação mais comum e segundo a área temática da realidade social a que se refere:
 
 * Indicadores de saúde (% de crianças nascidas com peso adequado)
@@ -62,7 +44,7 @@ Classificação mais comum e segundo a área temática da realidade social a que
 
 * Indicadores de pobreza e desigualdade (taxa de pobreza)
 
-### Indicadores Objetivos vs Subjetivos
+#### Indicadores Objetivos vs Subjetivos
 
 * **Indicadores objetivos (quantitativos):** são ocorrências concretas e medidas empíricas da realidade social, construídos a partir de estatísticas públicas disponíveis.
 
@@ -72,7 +54,7 @@ Classificação mais comum e segundo a área temática da realidade social a que
 
 **Exemplo:** índice de confiança nas instituições, avaliação sobre performance dos governantes.
 
-### Indicadores Descritivos vs Normativos
+#### Indicadores Descritivos vs Normativos
 
 * **Indicadores descritivos:** não são fortemente dotados de significados valorativos, e apenas descrevem características e aspectos da realidade empírica.
 
@@ -82,7 +64,7 @@ Classificação mais comum e segundo a área temática da realidade social a que
 
 **Exemplo:** proporção de pobres e taxa de desemprego dependem de uma série de decisões metodológicas normativas.
 
-### Indicadores Simples vs Compostos
+#### Indicadores Simples vs Compostos
 
 * **Indicadores simples:** são construídos a partir de uma estatística social específica, referente a uma determinada dimensão social.
 
@@ -90,17 +72,17 @@ Classificação mais comum e segundo a área temática da realidade social a que
 
 **Exemplo:** Índice de Desenvolvimento Humano (IDH) construído a partir de informações sobre saúde, educação e renda.
 
-### Indicadores Insumo vs Processo vs Produto
+#### Indicadores Insumo vs Processo vs Produto
 
 Classificação usada na análise/formulação de políticas sociais.
 
 * **Indicadores-insumo:** representam a alocação de recursos humanos, finanaceiros ou equipamentos para um processo ou programa que afeta a realidade social. Quantificam os recursos disponibilizados nas diversas políticas sociais.
 
-**Exemplo:** professores por estudantes, gasto per capita nas diversas áreas de políticas social, os equipamentos e o pessoal técnico disponibilizado.
+**Exemplo:** professores por estudantes, gasto per capita nas diversas áreas de políticas sociais, os equipamentos e o pessoal técnico disponibilizado.
 
 * **Indicadores processo:** indicam esforço operacional de alocação de recursos humanos, físicos ou financeiros (indicadores-insumo) para obtenção de melhorias efetivas de bem-estar (indicadores produto).
 
-**Exemplo:** número de consultas pediátrico por mês, homens-hora dedicados a um programa social.
+**Exemplo:** número de consultas pediátricas por mês, homens-hora dedicados a um programa social.
 
 * **Indicadores produto:** são vinculados às dimensões empíricas da realidade social, referidos às variáveis resultantes de processos sociais complexos. Retratam os resultados efetivos das políticas sociais.
 
@@ -108,7 +90,7 @@ Classificação usada na análise/formulação de políticas sociais.
 
 **obs:** os indicadores de insumo e processo podem ser chamados de indicadores de esforço, e os indicadores-produto de indicadores de resultados.
 
-### Indicadores Estoque vs Perfomance
+#### Indicadores Estoque vs Perfomance
 
 Diz respeito à temporalidade do prcesso analisado.
 
@@ -120,9 +102,9 @@ Diz respeito à temporalidade do prcesso analisado.
 
 **Exemplo:** aumento dos anos de escolaridade no decorrer do tempo.
 
-### Indicadores Eficiência vs Eficácia vs Efetividade
+#### Indicadores Eficiência vs Eficácia vs Efetividade
 
-Classificação utilizada na formulação de políticas, já que diferencia indicadores por aspectos de avaliaçãod e programas.
+Classificação utilizada na formulação de políticas, já que diferencia indicadores por aspectos de avaliação de programas.
 
 * Indicadores para **avaliação da eficiência** dos meios e recursos empregados.
 
@@ -135,8 +117,6 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 * Indicadores para **avaliação da efetividade** social do programa, isto é, avalia os efeitos do programa em termos mais abrangentes de bem estar para a sociedade.
 
 **Exemplo:** mortalidade infantil, nível de coesão social e participação na comunidade, nível de criminalidade na favela.
-
----
 
 ### Propriedades dos Indicadores Sociais
 
@@ -151,7 +131,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 * Desagregabilidade
 * Historicidade
 
-### Relevância Social
+#### Relevância Social
 
 * A **relevância social** da temática à qual o indicador se refere é um atributo fundamental para justificar sua produção e legitimar seu emprego no processo de análise, formulação e implementação de políticas.
 
@@ -159,7 +139,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * Os problemas de exclusão e desigualdade social em países em desenvolvimento gera a necessidade de coleta de estimativas públicas e de construção de indicadores sobre intensidade de pobreza, níveis de carência, e acesso a bens e serviços públicos.
 
-### Validade
+#### Validade
 
 * A validade do indicador corresponde ao grau de proximidade entre o conceito e a medida.
 
@@ -169,7 +149,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * A taxa de mortalidade infantil deve ser um indicador mais válido para avaliar as condições de saúde do que a porcentagem de domicílios com acesso a água encanada.
 
-### Confiabilidade
+#### Confiabilidade
 
 * Confiabilidade diz respeito à **qualidade** do levantamento dos dados usados na estimação do indicador.
 
@@ -179,7 +159,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * Os registros administrativos dos órgãos públicos ainda precisam melhorar a confiabilidade de seus indicadores.
 
-### Cobertura
+#### Cobertura
 
 * É importante dispor de indicadores com boa cobertura espacial ou populacional de forma que sejam representativos da realidade empírica em análise.
 
@@ -187,7 +167,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * Mesmo dados de órgãos públicos com cobertura parcial (tanto geograficamente, como conceitualmente) podem gerar importantes indicadores para a análise da realidade social. Por ex. alguns indicadores de mercado de trabalho, segurança pública, etc.
 
-### Sensibilidade
+#### Sensibilidade
 
 * Um indicador é sensível se for capaz de refletir mudanças significativas, em momentos que as condições que afetam a dimensão social em estudo se alterarem.
 
@@ -195,7 +175,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * Um indicador pode não apresentar mudanças estatisticamente significativas após a aplicação de políticas públicas, não somente porque não houve uma melhora nas condições de vida da população, mas talvez porque ele não possui sensibilidade suficiente para avaliação do tópico em estudo.
 
-### Especificidade
+#### Especificidade
 
 * Um indicador é específico se tem a propriedade de refletir alterações ligadas somente às mudanças relacionadas a dimensão social em estudo.
 
@@ -205,7 +185,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * Avaliar programas de atenção à saúde materno-infantil, proporção de crianças com baixo peso ao nascer ou taxa de mortalidade neonatal.
 
-### Inteligibilidade e Comunicabilidade
+#### Inteligibilidade e Comunicabilidade
 
 * Inteligibilidade se refere à transparência da metodologia de construção do indicador.
 
@@ -215,7 +195,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * A inteligibilidade e comunicabilidade são importante para garantir a transparência no uso programático do indicador.
 
-### Factibilidade e Periodicidade
+#### Factibilidade e Periodicidade
 
 * É preciso que o indicador possa ser factível de obtenção a custos acessíveis pelos órgãos de coleta ou pesquisadores.
 
@@ -225,7 +205,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * O custo e tempo para obtenção do indicador têm que ser compatíveis com as necessidades e usos que se faz do mesmo.
 
-### Desagregabilidade
+#### Desagregabilidade
 
 * É importante que os indicadores se refiram aos grupos sociais de interesse (população-alvo) dos programas.
 
@@ -233,7 +213,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * No entanto, devido a dificuldades metodológicas, falta de recursos e outros fatores, não é possível produzir estatísticas sociais com a frequência e representatividade amostral desejada pelos pesquisadores.
 
-### Historicidade
+#### Historicidade
 
 * Historicidade de um indicador é a propriedade de se dispor de séries históricas extensas e comparáveis do mesmo.
 
@@ -241,7 +221,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * É imporantante que indicadores passados sejam compatíveis conceitualmente e tenham confiabilidade similar aos indicadores atuais.
 
-### Perspectiva aplicada
+#### Perspectiva aplicada
 
 * É muito raro dispor de indicadores sociais que possuam todas as propriedades expostas anteriormente.
 
@@ -274,13 +254,13 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * Os registros ou cadastros públicos ganharam destaque nas últimas décadas e os Ministérios do Trabalho, da Saúde, do Desenvolvimento Regional vêm disponibilizando anualmente os dados de seus cadastros.
 
-### Instituto Brasileiro de Geografia e Estatística (IBGE)
+#### Instituto Brasileiro de Geografia e Estatística (IBGE)
 
 * É o agente coordenador do Sistema de Produção e Disseminação de Estatísticas Públicas.
 
 * Criado em 1934, produz dados primários, compila dados provenientes de Ministérios e dissemina as estatísticas.
 
-### Censo Demográfico
+#### Censo Demográfico
 
 * Devido à regularidade de coleta, escopo temático, desagregabilidade geográfica, cobertura nacional, acessibilidade dos dados, os Censos constituem-se na principal fonte de dados para a construção de indicadores sociais para formulação de políticas públicas no Brasil.
 
@@ -296,7 +276,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * Esta ferramenta permite construir tabelas cruzadas e cartogramas.
 
-### Pesquisa Nacional por Amostra de Domicílio (PNAD)
+#### Pesquisa Nacional por Amostra de Domicílio (PNAD)
 
 * A PNAD foi implantada em 1967 com o objetivo de acompanhar sistematicamente o quadro socioeconômico no período intercensitário.
 
@@ -306,24 +286,27 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 
 * Somente a população da zona rural da Região Norte estava fora desse universo (2,4% da população).
 
-### PNAD-Contínua
+#### PNAD-Contínua
 
 * Atualemnte, a principal pesquisa por amostragem divulgada pelo IBGE é a Pesquisa por Amostra de Domicílos Contínua.
 
 * Pnad Contínua abrange os grandes temas pesquisados pelo Censo Demográfico e entrevista mais de 700 mil domicílios em mais de 3 mil municípios no ano.
 
-### Registros Administrativos
+#### Registros Administrativos
 
 * Existeem limitações para estimação de indicadores geográficos e socioeconômicos para microrregiões e municípios brasileiros, deviddo:
      * Censos são realizados somente de 10 em 10 anos;
      * PNADs possuem limitações na desagregação geográfica;
      * Pesquisas mensais de emprego e de outras pesquisas amostrais possuem cobertura geográfica restrita.
  
-* Órgãos públicos 
+* Órgãos públicos disponibilizam seus dados de cadastros para outras finalidades que não apenas o controle administrativo ou registro legal.
 
+* Isso possibilita estimação de novos indicadores para monitoramento de programas e formulação de políticas sociais, especialmente em âmbito municipal.
 
+* Ministério da Educação; Ministério da Saúde (Datasus); Ministério da Economia (CAGED).
 
 ---
+*Vassouras(RJ).*
 
 **Lista de exercícios 1**
 
@@ -349,7 +332,91 @@ Os Censos Demográficos, as pesquisas amostrais e os registros administrativos.
 
 ---
 
+## Indicadores Demográficos
 
+#### Demografia
+
+* **Demografia** é a área do conhecimento que estuda as características, as transformações e a dinâmica geral de uma população. É também definido como o estudo estatístico de populações.
+
+#### População
+
+* **População** é um conjunto de elementos com características comuns.
+
+* Residentes do município de Niterói; Alunos matriculados no curso de Estatística da UFF; Pessoas contaminadas com o covid-19 no Brasil; Gado de corte no estado de Goiás.
+
+#### Características de uma População
+
+Ao caracterizar uma população (humana ou não), pensamos inicialmente:
+
+* No seu *tamanho*: quantos elementos/pessoas existem nessa localidade?
+
+* Na sua *composição*: quantos elementos são novos/recentes? Quantas pessoas são do sexo feminino?
+
+* Nos *fatores* que afetam seu tamanho: quantos bezerros nascem em um determinado período? Quantas pessoas morreram com covid-19? Quantos alunos de Estatística migram para outro curso?
+
+#### Por que estudar a população?
+
+* A população humana é um elemento político essencial que caracteriza uma sociedade. Portanto, é fundamental compreender a população para o planejamento econômico, social, cultural e político.
+
+* É importante estudar as causas e consequências dos fenômenos populacionais por causa da sua interdisciplinaridade.
+
+*  Os estudos populacionais envolvem várias disciplinas: economia, sociologia, arquitetura e urbanismo, medicina etc.
+
+### Indicadores Demográficos
+
+Quais são os fatores que afetam uma população?
+
+1. Nascimento ou entradas (natalidade).
+2. Mortalidade ou saída (óbitos).
+3. Movimento migratório (imigrantes e emigrantes).
+
+| Variável | Período | Niterói |
+|---|---|---|
+| Pop. Observada | 2010 | 487.562 |
+| Pop. Observada | 2022 | 481.749 |
+| Nascimentos | 2010-2022 | 77.673 |
+| Óbitos | 2010-2022 | 62.639 |
+| Cresc. Natural | 2010-2022 | 15.034
+| Saldo Migratório | 2010-2022 | -20.847
+
+* **População inicial (2010):** 487.562
+* **População final (2022):** 481.749
+* **Nascimentos (2010-2022):** 77.673
+* **Óbitos (2010-2022):** 62.639
+
+<table><tr><td>Crescimento Natural = Nascimentos - Óbitos</td></tr></table>
+
+<table><tr><td>Saldo Migratório = (População final - População inicial) - (Nascimentos - Óbitos)</td></tr></table>
+
+Crescimento Natural = 77.673 - 62.639 = 15.034
+
+Diferença Populacional = 481.749 - 487.562 = -5.813
+
+Saldo Migratório = -5.813 - 15.034 = -20.847
+
+Portanto, o saldo migratório estimado para o período entre 2010 e 2022 é de -20.847 pessoas, indicando uma perde líquida de população devido à imigração.
+
+#### Taxa de Crescimento Demográfico
+
+Considere uma população inicial de 80 alunos do curso de Estatística da UFF. Supondo que a população creça em PG com uma taxa média de crescimento anual de 14,1309%, calcule a quantidade de alunos no curso de Estatística da UFF 10 anos depois.
+
+P(10) = P(0)(1 + r)^10
+      = 80(1 + 0,141309)^10
+      = 300,0008
+
+#### Cálculo da Taxa de crescimento (r)
+
+* A partir da hipótese que a população cresce segundo uma PG com taxa r, podemos encontrar a taxa de crescimento r entre os instantes 0 e n se conhecemos P(0) e P(n).
+
+r = (P(n)/P(0))^1/t - 1
+
+Considere uma população inicial dos alunos de Estatística da UFF de 80 alunos. Uma década depois, o curso possui 300 alunos. Calcule a taxa de crescimento anual, supondo que apopulação cresça em progressão geométrica.
+
+r = (P(n)/P(0))^1/t - 1
+  = (300/80)^1/10 - 1
+  = 0,1413087
+
+#### Cálculo do Tempo
 
 
 
@@ -357,7 +424,6 @@ Os Censos Demográficos, as pesquisas amostrais e os registros administrativos.
 
 
 ---
-
 site do [*DATASUS/TABNET*.](https://datasus.saude.gov.br/informacoes-de-saude-tabnet/)
 
 O DATASUS disponibiliza informações que podem servir para subsidiar análises objetivas da situação sanitária, tomadas de decisão baseadas em evidências e elaboração de programas de ações de saúde.
@@ -366,4 +432,15 @@ A mensuração do estado de saúde da população é uma tradição em saúde p�
 
 Com os avanços no controle das doenças infecciosas (Informações Epidemiológicas e Morbidade) e com a melhor compreensão do conceito de saúde e de seus determinantes populacionais, a análise da situação sanitária passou a incorporar outras dimensões do estado de saúde.
 
-Vassouras(RJ) é o meu estado.
+---
+**Lista 2**
+
+---
+**Lista 3**
+
+---
+## Indicadores de Mercado de Trabalho e Renda
+
+### Mercado de Trabalho
+
+* 
