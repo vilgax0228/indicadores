@@ -308,7 +308,7 @@ Classificação utilizada na formulação de políticas, já que diferencia indi
 ---
 *Vassouras(RJ).*
 
-**Lista de exercícios 1**
+## Lista de exercícios 1
 
 **1. Defina estatísticas públicas e indicadores. Apresente um exemplo.**
 
@@ -364,7 +364,7 @@ Ao caracterizar uma população (humana ou não), pensamos inicialmente:
 
 ### Indicadores Demográficos
 
-Quais são os fatores que afetam uma população?
+Quais são os fatores que afetam o tamanho de uma população?
 
 1. Nascimento ou entradas (natalidade).
 2. Mortalidade ou saída (óbitos).
@@ -394,7 +394,7 @@ Diferença Populacional = 481.749 - 487.562 = -5.813
 
 Saldo Migratório = -5.813 - 15.034 = -20.847
 
-Portanto, o saldo migratório estimado para o período entre 2010 e 2022 é de -20.847 pessoas, indicando uma perde líquida de população devido à imigração.
+Portanto, o saldo migratório estimado para o período entre 2010 e 2022 é de -20.847 pessoas, indicando uma perda líquida de população devido à imigração.
 
 #### Taxa de Crescimento Demográfico
 
@@ -418,6 +418,73 @@ r = (P(n)/P(0))^1/t - 1
 
 #### Cálculo do Tempo
 
+Suponha que estamos interessados em determinar o tempo para o tamanho da população duplicar, supondo que cresça em PG. Ou seja, queremos encontrar t tal que P(n)=2P(0).
+
+Em geral, podemos determinar o tempo para que o tamanho da população aumente k vezes, P(n)=kP(0), sendo necessário o conhecimento da taxa r.
+
+t = ln(k)/ln(1+r)
+
+Considere uma população inicial dos alunos de Estatística da UFF de 80 alunos. Sabendo que a taxa de crescimento anual foi de 14,1309%, calcule em quantos anos a população inicial irá duplicar, mantendo o mesmo ritmo de crescimento.
+
+t = ln(k)/ln(1+r)
+t = ln(2)/ln(1+0,141309)
+t = 5,24
+
+### Definição de Natalidade
+
+Dentre as dimensões demográficas, a mortalidade é a mais simples porque ocorre uma única vez na vida de cada pessoa e para todas as pesssoas.
+
+Já a natalidade/fecundidade apresenta alguns desafios.
+
+* Pode não ocorrer.
+
+* Pode ocorrer em mais de um momento na vida da mulher, isto é, trata-se de um processo renovável, que pode ocorrer várias vezes na vida da mulher e pode ocorrer nascimentos múltiplos.
+
+* A mortalidade ocorre para todos os sexos e faixa etária, já o ato de dar à luz se limita a mulheres de certas faixas etárias (15 a 49 anos).
+
+### Natalidade, Fertilidade e Fecundidade
+
+**Natalidade:** quantifica o *número de nascimentos* que ocorrem na população como um todo.
+
+**Fertilidade:** refere-se à *capacidade biológica* das mulheres para ter filho, independente de elas realizarem esse potencial ou não.
+
+**Fecundidade:** quantifica os nascimentos que ocorrem nas vidas das mulheres individuais. Refere-se ao *número de filhos*, em média, por mulher, ao final do seu ciclo reprodutivo.
+
+### Taxa Bruta de Natalidade (TBN)
+
+TBN relaciona o número de nascimentos e o total da população, multiplicado por mil.
+
+TBN(t) = nascimento(t)/população(t) * 1000
+
+| Município | Número de nascidos vivos por residência da mãe | População residente | Taxa Bruta de Natalidade |
+| --- | --- | --- | --- |
+| Niterói | 5.174 | 481.749 | 10,74 |
+| Maricá | 2.133 | 197.277 | 10,81
+| São Gonçalo | 8.755 | 896.744 | 9,76
+
+### Taxa de Fecundidade Geral (TFG)
+
+A fecundidade considera apenas a população de mulheres.
+
+A TFG é uma tentativa de corrigir a TBN, levando em consideração só as mulheres em idade fértil. Usualmente, considera-se a idade fértil da população feminina a faixa etária de 15 a 49 anos.
+
+TFG(t) = nascimento(t)/pop.fem.15-49 anos(t) * 1000
+
+| Município | População feminina de 15 a 49 anos | Número de nascidos vivos por residência da mãe | Taxa de Fecundidade Geral |
+| --- | --- | --- | --- |
+| Niterói | 121.456 | 5.174 | 42,59 |
+| Maricá | 50.090 | 2.133 | 42,58 |
+| São Gonçalo | 235.953 | 8.755 | 37,10 |
+
+### Taxa Específica de Fecundidade (TEF)
+
+Assim como a TBN, a TFG não é uma boa medida para se comparar diferenças de níveis de fecundidade entre populações cujas distribuições etárias das mulheres em idade fértil sejam diferentes.
+
+A TEF por idade da mulher refere-se ao quociente, em um determinado ano, entre o número de nascimentos vivos de mães em uma determinada idade ou classe de idades, representado por (x,x+r) onde r é a amplitude da classe.
+
+TEF(x,x+r) = nascimento(x,x+r)/pop.fem.(x,x+r) * 1000
+
+
 
 
 
@@ -433,14 +500,153 @@ A mensuração do estado de saúde da população é uma tradição em saúde p�
 Com os avanços no controle das doenças infecciosas (Informações Epidemiológicas e Morbidade) e com a melhor compreensão do conceito de saúde e de seus determinantes populacionais, a análise da situação sanitária passou a incorporar outras dimensões do estado de saúde.
 
 ---
-**Lista 2**
+## Lista 2
+
+
+
+
+
+
+
+
+
+
+
 
 ---
-**Lista 3**
+## Lista 3
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ## Indicadores de Mercado de Trabalho e Renda
 
 ### Mercado de Trabalho
 
-* 
+Para entender as estatísticas e indicadores do mercado de trabalho de um país ou região, é fundamental compreender dois conceitos básicos:
+
+* **População em Idade Ativa (PIA):** corresponde a um contingente expressivo e majoritário da população total que está potencialmente apto para o exercício da atividade econômica produtiva.
+
+* **População Economicamente Ativa (PEA):** dentre os abrangidos pela PIA, aqueles que estão, efetivamente, disponíveis para o exercício - seja trabalhando ou procurando - compõem a PEA.
+
+### PIA e PEA
+
+A PNAD-C considera a PIA a partir dos 14 anos de idade, sem limite superior.
+
+Na PNAD-C usam o termo "na força de trabalho" para PEA.
+
+Portanto, "fora da força de trabalho" incluem as pessoas consideradas inativas como donas de casa, estudantes, aposentados, etc.
+
+### Ocupados e Desocupados
+
+A PEA é dividida entre os **ocupados** e os **desocupados**.
+
+Os desocupados ou desempregados são os indivíduos economicamente ativos não ocupados que estão procurando emprego.
+
+É a parcela prontamente disponível para ser engajada nas atividades produtivas.
+
+### Taxa de Participação
+
+É a proporção de indivíduos ocupados ou que buscam trabalho dentre a mão de obra disponível.
+
+Taxa de participação PEA/PIA * 100
+
+Mostra disponibilidade da mão de obra para produção econômica. É útil para avaliar:
+
+* O grau de envolvimento dos indivíduos para geração de renda;
+
+* Avaliar a eficácia das políticas de previdência social e ensino básico para garantir meios para que os idosos e crianças não precisem engajar-se em atividades econômicas;
+
+* Apontar o grau de autonomia da mulher n sociedade.
+
+### Taxa de Desocupação ou Desempregados
+
+A taxa de desemprego ou desocupação talvez seja o indicador mais famoso.
+
+Taxa de desemprego = desocupados/(desocupados+ocupados) * 100
+
+É a parcela da PEA prontamente disponível para ser engajada nas atividades produtivas.
+
+| Ano | Ocupado | Desocupado | Fora da força de trabalho | Total (PIA) | Taxa de Participação | Taxa de Desemprego |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2021 | 7.079 | 1.561 | 6.022 | 14.662 | 58,93% | 
+| 2022 |
+| 2023 |
+
+
+
+
+
+
+
+
+
+
+
+
+## Lista 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Indicadores de Pobreza e Insegurança Alimentar e Habitacional
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Lista 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
