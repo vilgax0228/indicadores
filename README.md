@@ -502,31 +502,7 @@ Com os avanços no controle das doenças infecciosas (Informações Epidemiológ
 ---
 ## Lista 2
 
-
-
-
-
-
-
-
-
-
-
-
----
 ## Lista 3
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 ## Indicadores de Mercado de Trabalho e Renda
@@ -579,43 +555,125 @@ Taxa de desemprego = desocupados/(desocupados+ocupados) * 100
 
 | Ano | Ocupado | Desocupado | Fora da força de trabalho | Total (PIA) | Taxa de Participação | Taxa de Desemprego |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2021 | 7.079 | 1.561 | 6.022 | 14.662 | 58,93% | 
-| 2022 |
-| 2023 |
+| 2021 | 7.079 | 1.561 | 6.022 | 14.662 | 58,93% | 18,07% |
+| 2022 | 7.716 | 1.181 | 5.916 | 14.813 | 60,06% | 13,27% |
+| 2023 | 8.149 | 914 | 5.662 | 14.725 | 61,54% | 10,08% |
 
+### Taxa de Desemprego
 
+É um sinalizador das perspectivas de crescimento ou de queda da demanda por bens e serviços.
 
+É um indicador importante para acompanhamento da política econômica e na formulação de políticas de emprego e distribuição de renda.
 
+Podemos diferenciar a situação de desemprego em três categorias.
 
+* **Desemprego aberto:** reúne aqueles que não exercem ou não precisaram exercer qualquer atividade econômica ou "bico" concomitantemente à procura de emprego.
 
+* **Desemprego oculto pelo trabalho precário:** situação que caracteriza a parcela de indivíduos que precisaram finaciar sua procura por trabalho realizando alguma atividade remunerada de forma precária, episódica e descontínua.
 
+* **Desemprego oculto por desalento:** reúne a parcela de indivíduos que deixou de procurar por trabalho momentaneamente, pelo desestimulo ou pela dificuldade em encontrar vagas disponíveis.
 
+### Taxa de Informalidade
 
+A informalidade inclui trabalhadores sem carteira assinada, trabalhadores domésticos sem carteira, empregador sem CNPJ, conta própria sem CNPJ e pessoas que trabalham em atividades familiares auxiliares
 
+Taxa de Informalidade = Trabalhadores informais/Ocupados * 100
 
+| Ano | Ocupado | Informalidade | Taxa de informalidade |
+| --- | --- | --- | --- |
+| 2021 | 7.079 | 2.634 | 37,21% |
+| 2022 | 7.716 | 2.871 | 37,21% |
+| 2023 | 8.149 | 3.027 | 37,15% |
+
+### Taxa de Subocupação por Insuficiência de horas trabalhadas
+
+São considerados pessoas subocupadas por insuficiência de horas trabalhadas aquelas que atendem as seguintes condições:
+
+* Trabalhavam menos de 40h no seu único trabalho ou no conjunto de todos os seus trabalhos;
+* 
+* Gostariam de trabalhar mais horas que as habitualmente trabalhadas;
+
+* Estavam disponíveis para trabalhar mais horas no período de 30 dias.
+
+Taxa de Subocupação = Subocupados por insuficiência de horas trabalhadas/Ocupados * 100
+
+| Ano | Ocupado | Subocupado por insuficiência de horas | Taxa de Subocupação |
+| --- | --- | --- | --- |
+| 2021 | 7.079 | 444 | 6,27% |
+| 2022 | 7.716 | 370 | 4,80% |
+| 2023 | 8.149 | 369 | 4,53% |
+
+### Percentual de Pessoas Desalentadas
+
+Consideram-se pessoas desalentadas aquelas que estavam na força de trabalho potencial e que não haviam realizado busca efetiva por trabalho por considerar:
+
+* não consiguirem trabalho adequado;
+* não tinham experiência profissional ou qualificação;
+* não conseguiam trabalho por serem muito jovens ou muito idosos ou não havia trabalho na localidade;
+* mas que gostariam de ter um trabalho e estavam disponíveis para trabalhar.
+
+| Ano | Ocupado | Desocupado | Desalentado | Percentual de Desalentados |
+| --- | --- | --- | --- | --- |
+| 2021 | 7.079 | 1.561 | 195 | 2,21% |
+| 2022 | 7.716 | 1.181 | 169 | 1,86% |
+| 2023 | 8.149 | 914 | 127 | 1,38% |
+
+### Indicadores de Renda
+
+Os indicadores de renda diferenciam-se entre si em três aspectos:
+
+* **Abrangência do conceito renda:** renda bruta, renda líquida, renda do trabalho, aposentadoria, etc.
+
+* **População de referência:** indivíduos, indivíduos ocupados, domicílios, etc.
+
+* **Unidade de estudo:** renda individual, renda domiciliar total e renda domiciliar per capita.
+
+**Renda Domiciliar Total** é a soma dos:
+
+* Rendimentos individuais (renda do trabalho, aposentadoria, pensões, trabalho ocasional, seguro-desemprego, transferências governamentais ou de terceiros, bolsa de estudos).
+
+* Rendimentos patrimoniais (alugueis, rendimentos financeiros, retiradas da caderneta de poupança).
+
+**Renda Domiciliar per capita**:
+
+* É a divisão entre a renda domiciliar total e o número de pessoas no domicílio.
+
+* É a parcela individual da renda familiar alocada para consumo de cada membro da mesma.
+
+### Índice de Gini para distribuição de renda
+
+Assume valor mínimo 0, situação de igualdade perfeita, e valor máximo de 1, situação extrema de desigualdade.
+
+Uma das limitações do índice é que não diferencia a distribuição em níveis extremos, ou seja, duas populações podem ter o mesmo índice de Gini, mas níveis de renda muito diferentes.
+
+### Como é calculado o índice de Gini
+
+O índice de Gini é calculado com base na curva de Lorenz.
+
+A curva indica o quanto uma proporção acumulada de renda (eixo y), varia conforme a proporção acumulada da população (eixo x).
+
+Pela curva, o índice de Gini é a diferença entre a área da mais perfeita distribuição de renda e aquela que de fato é observada, representada por
+
+G = A/A+B
+
+A: área da desigualdade;  
+A+B: área triangular de total igualdade de renda.
+
+### Parcela da massa apropriada dos domicílios
+
+É a proporção do montante de renda disponível para o conjunto de domicílios mais pobres (ou mais ricos) em relação ao total de renda disponível na sociedade, definido por
+
+Montante de renda x% mais pobres/Montante total de renda * 100
+
+Indicador mais específico e mais sensível a mudanças no perfil distributivo entre os extremos da distribuição de renda.
 
 ## Lista 4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Indicadores de Pobreza e Insegurança Alimentar e Habitacional
 
+### Definição de Pobreza
 
-
+A extrema pobreza (indigência) e pobreza retratam situações de carência de rendimentos suficientes para compra, respectivamente, de uma cesta básica de alimentos e de uma cesta básica de produtos e serviços imprescindíveis à reprodução social.
 
 
 
@@ -635,18 +693,3 @@ Taxa de desemprego = desocupados/(desocupados+ocupados) * 100
 
 
 ## Lista 5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
